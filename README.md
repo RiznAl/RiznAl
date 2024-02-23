@@ -1,16 +1,15 @@
-### Hi there 👋
+![Back-End](https://github.com/RiznAl/RiznAl/assets/161033588/75e1aaf5-dfe4-4a3b-b286-096b3976f17d)
 
-<!--
-**RiznAl/RiznAl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+## 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a QA Engineer committed to improving software quality through efficient testing processes. With expertise in automated testing tools and methodologies, I aim to enhance product reliability and performance.
+
+## 📫 Contact Me
+
+- **Email:** alon.rizn@gmail.com 
+- **GitHub:** https://github.com/RiznAl
+
+Feel free to connect for collaborations or questions!
+
