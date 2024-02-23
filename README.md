@@ -11,5 +11,3 @@ I'm a QA Engineer committed to improving software quality through efficient test
 - **Email:** alon.rizn@gmail.com 
 - **GitHub:** https://github.com/RiznAl
 
-Feel free to connect for collaborations or questions!
-
